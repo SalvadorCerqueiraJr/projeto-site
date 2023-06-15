@@ -8,6 +8,10 @@ body{
     background-color: rgba(12, 12, 124, 0.712);
 }
 
+img.lado {
+    float: right;
+}
+
 mian{
     background-color: aliceblue;
     width: 500px;
